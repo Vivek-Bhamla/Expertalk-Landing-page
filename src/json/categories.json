@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Emily Carter",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg",
+    "occupation": "Software Engineer"
+  },
+  {
+    "name": "James Walker",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "occupation": "UX Designer"
+  },
+  {
+    "name": "Aisha Mohammed",
+    "image": "https://randomuser.me/api/portraits/women/23.jpg",
+    "occupation": "Marketing Manager"
+  },
+  {
+    "name": "Liam Nguyen",
+    "image": "https://randomuser.me/api/portraits/men/24.jpg",
+    "occupation": "Data Analyst"
+  },
+  {
+    "name": "Sofia Rossi",
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "occupation": "Product Manager"
+  },
+  {
+    "name": "Noah Becker",
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "occupation": "Photographer"
+  }
+]
